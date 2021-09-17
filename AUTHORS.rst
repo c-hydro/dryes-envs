@@ -7,4 +7,7 @@ Developers
 * Alessandro Masoero <alessandro.masoero@cimafoundation.org>
 * Lauro Rossi <lauro.rossi@cimafoundation.org>
 * Anna Mapelli <anna.mapelli@cimafoundation.org>
+* Giulia Bruno <giulia.bruno@cimafoundation.org>
+* Simone Gabellani <simone.gabellani@cimafoundation.org>
+
 
